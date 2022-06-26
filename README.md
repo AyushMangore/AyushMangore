@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush mangore" target="https://www.linkedin.com/in/ayush-mangore-2b105b202/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush mangore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-mangore-2b105b202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush mangore" height="30" width="40" /></a>
 <a href="https://fb.com/ayush mangore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush mangore" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayuhs_hari_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayuhs_hari_123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ayushmangore9421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushmangore9421" height="30" width="40" /></a>
